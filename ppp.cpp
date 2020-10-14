@@ -11,7 +11,7 @@ int main()
  int i,j,overs,noovers,player1Toss,player2Toss;
  char player1[50],player2[50];
  srand(time(NULL));
- cout<<"-----------------------------------WELCOME TO HAND CRICKET GAME-------------------------------------\n";
+ cout<<"==========================WELCOME TO HAND CRICKET GAME==========================\n";
  cout<<"Enter Player 1 Name:";
  fflush(stdin);
  gets(player1);
